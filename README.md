@@ -50,7 +50,6 @@ class Skills extends SoftwareDeveloper {
 
 <p align="center">
 <a href="https://github.com/highlypeak">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=usernotnull&theme=dark&layout=compact" />
   <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=usernotnull&theme=dark"/>
 </a>
 </p>
