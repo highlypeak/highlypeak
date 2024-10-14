@@ -49,8 +49,7 @@ class Skills extends SoftwareDeveloper {
 #### 👀 Feast your eyes on the sexy cards below. Don't worry if you don't understand what they mean, they're good to look at too...
 
 <p align="center">
-<a href="https://github.com/usernotnull">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=usernotnull&count_private=true&show_icons=true&theme=dark" />
+<a href="https://github.com/highlypeak">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=usernotnull&theme=dark&layout=compact" />
   <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=usernotnull&theme=dark"/>
 </a>
@@ -70,5 +69,5 @@ If you reached this far, I must be really good at attention-grabbing :D
 
 Here's how you can contact me:
 <div align='center'>
-  <a href="highlypeak202@outlook.com"></a>
+  highlypeak202@outlook.com
 </div>
