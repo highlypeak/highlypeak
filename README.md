@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/highlypeak/highlypeak/master/.github/assets/header.png" />
+  <img src="https://raw.githubusercontent.com/highlypeak/highlypeak/master/.github/assets/git.png" />
 </h1>
 
 <h3 align='center'>
